@@ -20,7 +20,9 @@ export default function BucketList() {
 
         // set bucket using newBucket
         setBucket(newBucket);
-    }
+    };
+
+    
 
     return (
         <div>
